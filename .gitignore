@@ -1,0 +1,27 @@
+# 1. Các file chứa mật khẩu, API Key (QUAN TRỌNG NHẤT)
+.env
+*.env
+secret/
+keys/
+
+# Dữ liệu rác của Python & Môi trường ảo
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.pytest_cache/
+
+
+# Cấu hình cá nhân của phần mềm code (VS Code, PyCharm)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 5. Dữ liệu rác của Hệ điều hành
+.DS_Store
+Thumbs.db
