@@ -22,6 +22,6 @@ env/
 *.sln
 *.sw?
 
-# 5. Dữ liệu rác của Hệ điều hành
+# Dữ liệu rác của Hệ điều hành
 .DS_Store
 Thumbs.db
